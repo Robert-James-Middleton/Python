@@ -1,1 +1,1 @@
-This repository is a colection of programs I wrote from my classes at Angelo State University and from my my own learning experince.
+This repository is a colection of beginner python programs I wrote from classes at Angelo State University
